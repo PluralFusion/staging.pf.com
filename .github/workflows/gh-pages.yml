@@ -57,7 +57,7 @@ jobs:
           TZ: America/Los_Angeles
         run: |
           hugo \
-            # --source pluralfusion \
+            --source . \
             --gc \
             --minify \
             --cleanDestinationDir \
@@ -68,7 +68,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./pluralfusion/public
+          path: ./public
 
   # Deployment job
   deploy:
