@@ -26,7 +26,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/product-bg.jpg"
+  bg_image: "images/feature-bg2.webp"
   title: "RESULTS-DRIVEN CONNECTED HEALTH"
   content: " Connected health devices offer powerful insights into members' daily lives, poised to revolutionize wellness programs.
 
@@ -37,7 +37,7 @@ portfolio:
   PluralFusion handles it all: providing **fully branded devices, applications, and services**, while expertly managing health device integration, logistics, and compliance. This empowers telehealth providers with **actionable insights** to deliver exceptional care and achieve their program goals.
   "
   button:
-    enable: true
+    enable: false
     label: "View Works"
     link: "project/"
 

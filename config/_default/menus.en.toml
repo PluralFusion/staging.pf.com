@@ -16,15 +16,15 @@ weight = 1
 # url = "project/"
 # weight = 3
 
-[[main]]
-name = "Blog"
-url = "blog/"
-weight = 4
+# [[main]]
+# name = "Blog"
+# url = "blog/"
+# weight = 4
 
-[[main]]
-name = "Developer"
-url = "dev/"
-weight = 5
+# [[main]]
+# name = "Developer"
+# url = "dev/"
+# weight = 5
 
 # [[main]]
 # weight = 5
