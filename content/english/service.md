@@ -3,7 +3,7 @@ title: "Product"
 description: "this is meta description"
 bg_image: "images/product-bg.jpg"
 layout: "service"
-draft: false
+draft: true
 
 ########################### about service #############################
 about:
