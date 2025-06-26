@@ -26,7 +26,8 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/feature-bg2.webp"
+  bg_image: "images/feature-bg5.webp"
+  bg_overlay: false
   title: "RESULTS-DRIVEN CONNECTED HEALTH"
   content: " Connected health devices offer powerful insights into members' daily lives, poised to revolutionize wellness programs.
 

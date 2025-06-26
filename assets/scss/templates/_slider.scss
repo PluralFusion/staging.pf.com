@@ -16,10 +16,10 @@
 
     // updated h1 for hero/banner
     h1 {
-      font-weight: 450;
+      font-weight: 600;
       font-size: 30px;
       line-height: 1.33em;
-      letter-spacing: 0.2em;
+      letter-spacing: 0.1em;
       padding-bottom: 10px;
       text-transform: uppercase;
 
@@ -40,8 +40,8 @@
       margin-bottom: 30px;
       color: darken( $light, 25.09803921568627);
       font-size: 18px;
-      line-height: 1.5em;
-      font-weight: 300;
+      line-height: 1.2em;
+      font-weight: 400;
 
       @include mobile {
         font-size: 14px;
