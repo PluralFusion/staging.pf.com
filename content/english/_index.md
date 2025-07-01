@@ -19,7 +19,13 @@ about:
   enable: true
   title: "About Us"
   description: "PluralFusion empowers individuals and organizations to thrive by creating connected solutions that prioritize well-being, safety, health and human potential."
-  content: "PluralFusion offers comprehensive connected health solutions for consumers, healthcare providers and industries. Our connected health and safety solutions empower our customers by providing device logistics, data integration, security, and ongoing support."
+  content: "PluralFusion's team has over 30 years experience delivering highly scalable solutions for consumers and enterprises. We offer comprehensive connected health solutions for consumers, healthcare providers and industries. 
+  
+
+  We provide Telehealth partners with branded devices, device logistics, data integration, platform security and ongoing support.
+  
+
+  We provide consumers with mobile applications and devices for at-home safety and healthier living."
   image: "images/pf-about-img.png"
 
 
@@ -29,7 +35,7 @@ portfolio:
   bg_image: "images/feature-bg5.webp"
   bg_overlay: false
   title: "RESULTS-DRIVEN CONNECTED HEALTH"
-  content: " Connected health devices offer powerful insights into members' daily lives, poised to revolutionize wellness programs.
+  content: "Connected health devices offer powerful insights into members' daily lives, poised to revolutionize wellness programs.
 
 
   Telehealth providers know true value isn't just a device. It's the **improved health, reduced costs, and enhanced engagement** that comes from a seamless, integrated ecosystem.

@@ -11,7 +11,7 @@ logo_text = "PluralFusion"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
+description = "Connected Health Solutions"
 author = "PluralFusion"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
@@ -19,7 +19,11 @@ address_descriptors = true
 # contact info
 phone = "+1-804-214-7770"
 email = "info@pluralfusion.com"
-location = "PluralFusion 1717 East Cary Street Richmond, Virginia 23223"
+location = """
+**PluralFusion**<br/>
+1717 East Cary Street<br/>
+Richmond, Virginia 23223
+"""
 # copyright
 copyright = "© 2025 PluralFusion Inc"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
