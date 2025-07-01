@@ -22,10 +22,10 @@ about:
   content: "PluralFusion's team has over 30 years experience delivering highly scalable solutions for consumers and enterprises. We offer comprehensive connected health solutions for consumers, healthcare providers and industries. 
   
 
-  We provide Telehealth partners with branded devices, device logistics, data integration, platform security and ongoing support.
+  We provide branded devices, device logistics, data integration, platform security and ongoing support for **Healthcare Partners**.
   
 
-  We provide consumers with mobile applications and devices for at-home safety and healthier living."
+  We provide mobile applications and devices for at-home safety and healthier living **for Consumers**"
   image: "images/pf-about-img.png"
 
 
@@ -38,7 +38,7 @@ portfolio:
   content: "Connected health devices offer powerful insights into members' daily lives, poised to revolutionize wellness programs.
 
 
-  Telehealth providers know true value isn't just a device. It's the **improved health, reduced costs, and enhanced engagement** that comes from a seamless, integrated ecosystem.
+  Healthcare providers know true value isn't just from a device. It is the **improved health, reduced costs, and enhanced engagement** that comes from a seamless, integrated ecosystem.
 
 
   PluralFusion handles it all: providing **fully branded devices, applications, and services**, while expertly managing health device integration, logistics, and compliance. This empowers telehealth providers with **actionable insights** to deliver exceptional care and achieve their program goals.
