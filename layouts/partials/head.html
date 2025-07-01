@@ -195,7 +195,7 @@
 {{ with site.Params.umami }}
 {{ if .enable }}
 {{ with .id }}
-<script defer src="{{ site.Params.umami.url | default "https://cloud.umami.is/script.js" }}" data-website-id="{{ . }}"></script>  <!-- enables user to change script location if self-hosting -->
+<script defer src="{{ site.Params.umami.url | default "https://cloud.umami.is/script.js" }}" data-website-id="{{ . }}"></script>   <!-- enables user to change script location if self-hosting -->
 {{ end }}
 {{ end }}
 {{ end }}

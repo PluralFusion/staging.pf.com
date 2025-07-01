@@ -1,6 +1,6 @@
 ---
 title: "Privacy"
-description: "We Don't Use Cookies"
+description: "We Only Use Functional Cookies"
 bg_image: "images/feature-bg3.webp"
 date: 2025-06-25
 layout: "faq"
@@ -30,9 +30,9 @@ We use the information collected to understand how visitors use our Website and 
 ### Sharing of Information
 We do not share your information with any third parties except as described in this Privacy Policy.
 
-  **Umami Analytics** We share information with Umami as our analytics provider. Umami has its own privacy policy, which we encourage you to review. You can learn more about Umami's privacy policy here: [Umami Privacy Policy](https://umami.is/privacy)
+  **Umami Analytics** We may share information with Umami as our analytics provider. Umami has its own privacy policy, which we encourage you to review. You can learn more about Umami's privacy policy here: [Umami Privacy Policy](https://umami.is/privacy).
 
-  **Google reCaptcha** We use Google reCaptcha on our Contact page. This page includes a link to Google's [privacy policy](https://policies.google.com/privacy) and [terms of service](https://policies.google.com/terms). 
+  **Google reCaptcha** We may use Google reCaptcha on our Contact page. Google reCaptcha uses cookies. This page includes a link to Google's [privacy policy](https://policies.google.com/privacy) and [terms of service](https://policies.google.com/terms). 
  
 ### Data Retention
 We retain the anonymized data collected through Umami Analytics for as long as necessary for the purposes described in this Privacy Policy.

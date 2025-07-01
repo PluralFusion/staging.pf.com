@@ -64,6 +64,7 @@ link = "contact"
 [umami]
 enable = true
 url = "https://cloud.umami.is/script.js" # allows user to select a self-hosted location instead of umami cloud
+# url = "https://foo.umami.is/script.js" # allows user to select a self-hosted location instead of umami cloud
 id = "29679991-c7b6-4291-8c7f-8dcc1462be45" # umami website ID
 
 
