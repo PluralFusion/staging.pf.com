@@ -17,8 +17,8 @@ url = "project/"
 weight = 3
 
 [[main]]
-name = "Blog"
-url = "blog/"
+name = "Media"
+url = "media/"
 weight = 4
 
 [[main]]

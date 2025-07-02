@@ -2,7 +2,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/telehealth-slider2.jpg"
+  bg_image: "images/telehealth-slider3.jpg"
   bg_overlay: true
   title: "Connected Intelligence<br />for health, safety & everyday living"
   content: "Comprehensive connected health solutions for consumers, healthcare providers and industries. 
@@ -44,9 +44,9 @@ portfolio:
   PluralFusion handles it all: providing **fully branded devices, applications, and services**, while expertly managing health device integration, logistics, and compliance. This empowers telehealth providers with **actionable insights** to deliver exceptional care and achieve their program goals.
   "
   button:
-    enable: false
-    label: "View Works"
-    link: "project/"
+    enable: true
+    label: "Learn More"
+    link: "media/pluralfusion-1"
 
 
 ############################# Service ############################
